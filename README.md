@@ -1,0 +1,8 @@
+Battery Wizard Firmware Update: 
+Current relase: 2.12.50
+Features added:
+Auto saving user selectable parameters when exiting the setup pages
+Adds total pack resistance and voltage information for IR test
+Adds "200A" test with voltage information
+Saves calibration data to the EEPROM to make future updates easier
+Please download the zip ending in Uxx where xx is your unit number
