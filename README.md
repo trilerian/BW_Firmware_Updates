@@ -1,5 +1,5 @@
 Battery Wizard Firmware Update: 
-Current relase: 2.12.50
+Intermediary relase: 2.12.50
 Features added:
 Auto saving user selectable parameters when exiting the setup pages
 Adds total pack resistance and voltage information for IR test
