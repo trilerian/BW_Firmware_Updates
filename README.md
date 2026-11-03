@@ -1,5 +1,6 @@
 Battery Wizard Firmware Update: 
-
+3.00.09
+Latest version, UI updates only, follow instructions for 3.00.00, but download the 3.00.09 updater
 3.00.00
 Update path for versions 2.14.00, 2.14.25, 2.14.50 to 3.00.00
 Download exe and update using the USB to Serial converter found in my youtube video
